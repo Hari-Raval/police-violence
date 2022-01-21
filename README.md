@@ -4,9 +4,9 @@
 
 ## Overview 
 
-The NBA (National Basketball Association) is an organization which negotiates the varying interests of players, coaches, owners, and fans. One area of common interest is understanding team and player performance. Teams can obtain insights into their level of play and make decisions on personal changes. Fans can use these insights to engage in the betting market. Analysis of NBA game data from 2004 to 2020 uncovers a complex team network and latent player positions. 
+Excessive police violence is a rampant issue in the United States. Police departments have often been placed under scrutiny for the use of unreasonable and discriminatory coercive actions against civilians. Analysis of fatal police shootings data, Census Bureau data, and FBI law enforcement data uncovers the factors and manners of discrimination that contribute to the application of coercive force, often leading to a fatal shooting. 
 
-In this work, we use classification models to predict the outcome of 24,196 games and regression models to predict the impact 2,407 players have on games. We aid these prediction tasks by building digraphs of team networks based on game outcomes and creating new features via clustering on a reduced dimension data set of players.
+In this work, we classify whether a shooting will occur or not at the zip code tabulation area by applying logistic regression, random forest, boosting, and neural network modeling approaches. Moreover, we formulate a technique to assign risk scores to areas indicating the likelihood of a police fatal shooting.
 
 ## Approach and Results
 
