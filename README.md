@@ -1,4 +1,4 @@
-# Final Project for AC 209: Police Violence in the USA
+# Final Project for AC 209A: Police Violence in the USA
 
 ##### Team Members: Hari Raval, David Berthiaume, Jessica Fang
 
